@@ -1,0 +1,29 @@
+BODY {
+background-color: #FFFF99;background-image: url(borneo2.gif);
+background-attachment: fixed;background-repeat: repeat-y;
+background-position: topleft;font-size:12pt;font-family:serif;
+color:black;margin:0px;padding:0px;
+}
+
+IMG {border-color:black;}
+TABLE {border-width:0px; margin:0px; padding: 0px;}
+
+TD {font-size:12pt;font-family:serif;color:black;}
+H1 {font-size:16pt;}
+H2 {font-size:14pt;}
+H3 {font-size:10pt;font-weight:normal;}
+
+TD.balk1 {font-size:10pt;background-color:#dddd77;}
+TD.balk2 {font-size:10pt;background-color:#55cc55;}
+TD.balk3 {font-size:10pt;background-color:#eeee88;}
+TD.krant {font-size:9pt;vertical-align:top;line-height:90%;}
+TD.krkop {font-size:28pt;}
+
+A {color:#3333cc;text-decoration:none;}
+A:Visited {color:#3333cc;}
+A:Active {color:#aaaaff;}
+A:Hover {color:#aaaaff;}
+
+HR {color:black;}
+
+
